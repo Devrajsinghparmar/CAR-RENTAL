@@ -1,0 +1,26 @@
+{
+  "name": "car-rentel",
+  "version": "1.0.0",
+  "description": "just learning think",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Devrajsinghparmar/CAR-RENTAL.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Devrajsinghparmar/CAR-RENTAL/issues"
+  },
+  "homepage": "https://github.com/Devrajsinghparmar/CAR-RENTAL#readme",
+  "dependencies": {
+    "expo": "^54.0.31"
+  },
+  "devDependencies": {
+    "@types/react": "~19.1.10",
+    "typescript": "~5.9.2"
+  }
+}
